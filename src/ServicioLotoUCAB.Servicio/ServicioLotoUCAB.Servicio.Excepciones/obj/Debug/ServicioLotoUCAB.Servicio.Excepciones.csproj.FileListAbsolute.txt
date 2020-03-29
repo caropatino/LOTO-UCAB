@@ -1,0 +1,17 @@
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+D:\UCAB\Proyecto\IS_15524\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+D:\UCAB\Proyecto\IS_15524\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+D:\UCAB\Proyecto\IS_15524\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_15524\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_15524\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+D:\UCAB\Proyecto\IS_15524\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\carolina\Documents\5TO SEMESTRE\INGENIERIA DEL SOFTWARE\proyecto_final\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\carolina\Documents\5TO SEMESTRE\INGENIERIA DEL SOFTWARE\proyecto_final\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\carolina\Documents\5TO SEMESTRE\INGENIERIA DEL SOFTWARE\proyecto_final\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\carolina\Documents\5TO SEMESTRE\INGENIERIA DEL SOFTWARE\proyecto_final\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\carolina\Documents\5TO SEMESTRE\INGENIERIA DEL SOFTWARE\proyecto_final\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
